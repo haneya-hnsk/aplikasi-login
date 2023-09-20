@@ -1,9 +1,0 @@
-
-  /** 
-   * nambah kalimat lain
-   * @constant {string}
-   */
-saya sedang mencoba git
-menambah kalimat lain
-
-nambah kalimat lain
